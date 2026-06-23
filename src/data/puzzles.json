@@ -1,0 +1,98 @@
+[
+  {
+    "id": "2026-06-11",
+    "number": 1,
+    "title": "Season Preview",
+    "season": "2026",
+    "groups": [
+      {
+        "label": "Debuted as expansion teams in 2000",
+        "difficulty": 4,
+        "hint": "The 2000 class — four franchises entered the W together",
+        "items": ["Storm", "Fever", "Fire", "Sol"]
+      },
+      {
+        "label": "A'ja Wilson MVP seasons",
+        "difficulty": 3,
+        "hint": "Four years, one name on the trophy each time",
+        "items": ["2020", "2022", "2024", "2025"]
+      },
+      {
+        "label": "Active playoff drought (2+ seasons)",
+        "difficulty": 2,
+        "hint": "These squads have been watching October from the couch",
+        "items": ["Sparks", "Sky", "Sun", "Mystics"]
+      },
+      {
+        "label": "Future expansion cities (2028–2030)",
+        "difficulty": 1,
+        "hint": "Not in the league yet — but they will be",
+        "items": ["Cleveland", "Detroit", "Philadelphia", "Houston"]
+      }
+    ]
+  },
+  {
+    "id": "2026-06-10",
+    "number": 2,
+    "title": "Records & Milestones",
+    "season": "2026",
+    "groups": [
+      {
+        "label": "Won 3+ career MVPs",
+        "difficulty": 4,
+        "hint": "An exclusive club — three or more regular season MVPs",
+        "items": ["A'ja Wilson", "Lisa Leslie", "Sheryl Swoopes", "Lauren Jackson"]
+      },
+      {
+        "label": "Top 4 in career RPG (min 50 games)",
+        "difficulty": 3,
+        "hint": "The all-time leaders on the glass, per game",
+        "items": ["Angel Reese", "Sylvia Fowles", "Cheryl Ford", "Tina Charles"]
+      },
+      {
+        "label": "Most assists through first 2 seasons",
+        "difficulty": 2,
+        "hint": "Dimes from day one — top distributors through year two",
+        "items": ["Caitlin Clark", "Ticha Penicheiro", "Sue Bird", "Dawn Staley"]
+      },
+      {
+        "label": "UCLA players drafted 1st round 2026",
+        "difficulty": 1,
+        "hint": "Westwood pipeline — all from the same program",
+        "items": ["Lauren Betts", "Gabriela Jaquez", "Kiki Rice", "Angela Dugalić"]
+      }
+    ]
+  },
+  {
+    "id": "2026-06-09",
+    "number": 3,
+    "title": "Franchise Histories",
+    "season": "2026",
+    "groups": [
+      {
+        "label": "Lost a WNBA Finals to Connecticut",
+        "difficulty": 4,
+        "hint": "The Sun have broken each of these teams' hearts in the Finals",
+        "items": ["Aces", "Mystics", "Fever", "Sparks"]
+      },
+      {
+        "label": "Active consecutive playoff streak",
+        "difficulty": 3,
+        "hint": "No off-years — these teams keep punching their ticket",
+        "items": ["Liberty", "Lynx", "Storm", "Dream"]
+      },
+      {
+        "label": "2025 individual award winners",
+        "difficulty": 2,
+        "hint": "Hardware from last season — MVP, ROY, MIP, or 6th Woman",
+        "items": ["A'ja Wilson", "Paige Bueckers", "Naz Hillmon", "Veronica Burton"]
+      },
+      {
+        "label": "Relocated or folded franchises",
+        "difficulty": 1,
+        "hint": "Gone from the league — these teams no longer exist",
+        "items": ["Rockers", "Starzz", "Monarchs", "Comets"]
+      }
+    ]
+  }
+]
