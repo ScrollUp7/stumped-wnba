@@ -7,11 +7,11 @@
 const config = {
   // Identity
   league: "WNBA",
-  siteName: "Courtside Connections",
+  siteName: "Stumped",
   tagline: "The daily WNBA puzzle",
   description:
     "Test your WNBA knowledge. Find four groups of four. A new puzzle every day during the season — plus an archive of past puzzles year-round.",
-  domain: "courtsideconnections.com",
+  domain: "WNBA.stumped.games",
 
   // Colors — group difficulty (1=easiest, 4=hardest)
   colors: {
@@ -26,12 +26,12 @@ const config = {
   // Social
   social: {
     twitter: "",
-    hashtag: "#CourtsideConnections",
+    hashtag: "#StumpedWNBA",
   },
 
   // SEO
   seo: {
-    title: "Courtside Connections — The Daily WNBA Puzzle",
+    title: "Stumped — The Daily WNBA Puzzle",
     ogImage: "", // URL to og:image once created
   },
 };
